@@ -1,2 +1,2 @@
 # calculator
-deafult
+deafult python calculator
